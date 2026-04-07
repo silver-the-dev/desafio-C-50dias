@@ -1,6 +1,6 @@
 # desafio-C-50dias
 # 🚀 Roadmap C: Do Zero ao C++ (50 Exercícios)
-
+(Esses exercícios foram gerados por IA mas feitos totalmente sem o uso dela)
 ## 🟢 Nível 1: Fundamentos e Lógica (O Básico)
 
 - [x]  **Hello World Profissional:** Imprima "Hello World" e o tamanho de cada tipo básico (`int`, `float`, `double`, `char`) em bytes usando `sizeof`.
