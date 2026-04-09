@@ -24,7 +24,7 @@
 - [x] **13. Sequência de Fibonacci:** Imprima os primeiros N termos da sequência.
 - [x] **14. Inversão de Número:** Receba 1234 e imprima 4321 usando operações matemáticas (sem strings).
 - [x] **15. Cálculo de Potência:** Crie uma função `minha_pow(base, exp)` que não use a biblioteca `math.h`.
-- [ ] **16. MDC:** Implemente uma função que calcule o Máximo Divisor Comum entre dois números.
+- [x] **16. MDC:** Implemente uma função que calcule o Máximo Divisor Comum entre dois números.
 - [ ] **17. Conversor Binário:** Receba um número decimal e imprima sua representação binária.
 - [ ] **18. Menu Interativo:** Crie um menu usando `switch/case` que só fecha quando o usuário digita 'S'.
 - [ ] **19. Verificador de Triângulos:** Função que recebe 3 lados e diz se é equilátero, isósceles ou escaleno.
