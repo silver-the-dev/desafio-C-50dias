@@ -28,7 +28,7 @@
 - [x] **17. Conversor Binário:** Receba um número decimal e imprima sua representação binária.
 - [x] **18. Menu Interativo:** Crie um menu usando `switch/case` que só fecha quando o usuário digita 'S'.
 - [x] **19. Verificador de Triângulos:** Função que recebe 3 lados e diz se é equilátero, isósceles ou escaleno.
-- [ ] **20. Cronômetro Simples:** Use um laço e a função `sleep` para fazer uma contagem regressiva.
+- [x] **20. Cronômetro Simples:** Use um laço e a função `sleep` para fazer uma contagem regressiva.
 
 ## 🟠 Nível 3: Arrays e Strings (Manipulação de Dados)
 
