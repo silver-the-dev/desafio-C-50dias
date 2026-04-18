@@ -33,7 +33,7 @@
 ## 🟠 Nível 3: Arrays e Strings (Manipulação de Dados)
 
 - [x] **21. Maior e Menor no Vetor:** Preencha um vetor de 10 posições e encontre o maior e o menor valor.
-- [ ] **22. Inverter Vetor:** Inverta a ordem dos elementos de um vetor "in-place" (sem criar um segundo vetor).
+- [x] **22. Inverter Vetor:** Inverta a ordem dos elementos de um vetor "in-place" (sem criar um segundo vetor).
 - [ ] **23. Busca Linear:** Verifique se um número existe em um array e retorne seu índice.
 - [ ] **24. Ordenação Bubble Sort:** Implemente o algoritmo Bubble Sort para ordenar um vetor de inteiros.
 - [ ] **25. Matriz Identidade:** Gere uma matriz identidade de ordem N.
