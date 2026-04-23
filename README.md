@@ -41,7 +41,7 @@
 - [x] **27. Palíndromo:** Verifique se uma string (ex: "arara") é um palíndromo.
 - [x] **28. Contador de Vogais:** Conte quantas vogais existem em uma frase digitada pelo usuário.
 - [x] **29. Concatenação Manual:** Concatene duas strings sem usar `strcat`.
-- [ ] **30. Cifra de César:** Implemente uma criptografia simples que desloca cada letra da string em 3 posições.
+- [x] **30. Cifra de César:** Implemente uma criptografia simples que desloca cada letra da string em 3 posições.
 
 ## 🔴 Nível 4: Pointers e Memória (O Coração do C)
 
