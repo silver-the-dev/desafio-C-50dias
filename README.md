@@ -38,7 +38,7 @@
 - [x] **24. Ordenação Bubble Sort:** Implemente o algoritmo Bubble Sort para ordenar um vetor de inteiros.
 - [x] **25. Matriz Identidade:** Gere uma matriz identidade de ordem N.
 - [x] **26. Soma de Matrizes:** Some duas matrizes 3x3 e exiba o resultado.
-- [ ] **27. Palíndromo:** Verifique se uma string (ex: "arara") é um palíndromo.
+- [x] **27. Palíndromo:** Verifique se uma string (ex: "arara") é um palíndromo.
 - [ ] **28. Contador de Vogais:** Conte quantas vogais existem em uma frase digitada pelo usuário.
 - [ ] **29. Concatenação Manual:** Concatene duas strings sem usar `strcat`.
 - [ ] **30. Cifra de César:** Implemente uma criptografia simples que desloca cada letra da string em 3 posições.
