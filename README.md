@@ -48,8 +48,8 @@
 - [x] **31. Troca com Ponteiros:** Crie uma função `swap(int *a, int *b)` que troque o valor de duas variáveis.
 - [x] **32. Aritmética de Ponteiros:** Percorra e imprima um vetor usando apenas ponteiros e incrementos (`p++`), sem usar colchetes `[]`.
 - [x] **33. Ponteiro de Ponteiro:** Crie um exemplo que use um ponteiro para ponteiro (`int **p`) e explique o que acontece na memória.
-- [ ] **34. Malloc de Vetor:** Peça ao usuário o tamanho de um vetor, aloque-o dinamicamente usando `malloc` e preencha-o.
-- [ ] **35. Free e Memory Leak:** Crie um programa que aloque memória e libere-a corretamente. Use o `valgrind` no seu Fedora para checar se há vazamentos.
+- [x] **34. Malloc de Vetor:** Peça ao usuário o tamanho de um vetor, aloque-o dinamicamente usando `malloc` e preencha-o.
+- [ ] **35. Free e Memory Leak:** Crie um programa que aloque memória e libere-a corretamente.
 - [ ] **36. String Dinâmica:** Leia uma string de tamanho desconhecido usando `realloc` conforme o usuário digita.
 - [ ] **37. Matriz Dinâmica:** Aloque uma matriz de forma que as linhas possam ter tamanhos diferentes.
 - [ ] **38. Cópia de Memória:** Implemente sua própria versão da função `memcpy`.
